@@ -9,7 +9,7 @@ Python, PostgreSQL, Django Framework, Git, HTML, CSS, Linux, Windows, Bash
 ### Вот, что я умею
 
 - Python. [Репозиторий с дипломной работой](https://github.com/slightly104/VKinder)
-- HTML, CSS. [Репозиторий с итоговой работой](https://github.com/slightly104/HTML-CSS-final-paper-Netology---22)
+- HTML, CSS. [Репозиторий с итоговой работой](https://github.com/slightly104/HTML-CSS-final-paper-Netology---22). [Сам сайт](https://slightly104.github.io/HTML-CSS-final-paper-Netology---22/) (не оптимизирован под мобильные устройства)
 - Telegram bot. [Репозиторий](https://github.com/slightly104/CarpeDiemBot), имя бота в ТГ: @CarpeDiemGirlBot
 - Telegram bot. [Репозиторий](https://github.com/slightly104/DnD_adventurerBot), имя бота в ТГ: @DnD_adventurerbot
 - Парсер смартфонов с сайта DNS-shop. [Репозиторий](https://github.com/slightly104/dns_shop_smartphones_parser.git)
