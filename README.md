@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-Postman, SQL, JSON, REST API, PostgreSQL, Selenium, Python, Pytest, Django Framework, Kibana, Git, HTML, CSS, Linux, Windows, Bash
+Postman, Test IT, SQL, JSON, REST API, PostgreSQL, Selenium, Python, Pytest, Django Framework, Kibana, Git, HTML, CSS, Linux, Windows, Bash
 
 ### Вот, что я умею
 
