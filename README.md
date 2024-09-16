@@ -1,10 +1,10 @@
 ### Привет!
 
-Я <b>Алексей Новиков</b>, разработчик на Python.
+Я <b>Алексей Новиков</b>, QA Engineer.
 
 ### Мой стек
 
-Python, PostgreSQL, Django Framework, Git, HTML, CSS, Linux, Windows, Bash
+Postman, SQL, JSON, REST API, PostgreSQL, Selenium, Python, Pytest, Django Framework, Kibana, Git, HTML, CSS, Linux, Windows, Bash
 
 ### Вот, что я умею
 
@@ -13,7 +13,7 @@ Python, PostgreSQL, Django Framework, Git, HTML, CSS, Linux, Windows, Bash
 - Telegram bot. [Репозиторий](https://github.com/slightly104/CarpeDiemBot), имя бота в ТГ: @CarpeDiemGirlBot
 - Telegram bot. [Репозиторий](https://github.com/slightly104/DnD_adventurerBot), имя бота в ТГ: @DnD_adventurerbot
 - Парсер смартфонов с сайта DNS-shop. [Репозиторий](https://github.com/slightly104/dns_shop_smartphones_parser.git)
-- HTML, CSS. [Репозиторий с итоговой работой](https://github.com/slightly104/HTML-CSS-final-paper-Netology---22). [Сам сайт](https://slightly104.github.io/HTML-CSS-final-paper-Netology---22/) (не оптимизирован под мобильные устройства)
+- HTML, CSS. [Репозиторий с версткой](https://github.com/slightly104/HTML-CSS-final-paper-Netology---22). [Сам сайт](https://slightly104.github.io/HTML-CSS-final-paper-Netology---22/) (не оптимизирован под мобильные устройства)
 
 ### Сертификаты Нетологии
 - [Основы программирования на Python](https://github.com/slightly104/slightly104/blob/876afe36d462096cf08429b6865372dd4aaec342/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20Python,%202022.pdf)
